@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Bocisław",
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
   "server": {
     "ip": "Spermoludek.aternos.me",
